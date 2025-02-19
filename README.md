@@ -18,7 +18,7 @@ Traditional Gena Managemnt system
 
 To access the admin dashboard, use the following credentials:
 
-- **Email:** mikidbesaw@gmail.com
+- **Email:** mikidebesaw@gmail.com
 - **Password:** password123
 
 ## Features
